@@ -2,8 +2,11 @@ The food ingredient website is a convenient platform that allows users to explor
 
 Functionality:
 1.Ingredient Recognition: Users can input a list of ingredients they have available, either by typing them manually or using voice input. The website utilizes advanced ingredient recognition algorithms powered by third-party APIs to identify the ingredients accurately.
+
 2.Recipe Recommendations: Based on the user's input, the website generates a list of recommended dishes that can be prepared using the provided ingredients. Each recommendation includes a brief description of the dish, along with a link to view the full recipe.
+
 3.YouTube Integration: For each recommended dish, the website fetches video tutorials from relevant YouTube channels using the YouTube Data API. Users can watch step-by-step cooking demonstrations directly from the website or be redirected to the corresponding YouTube channel for more detailed instructions.
+
 4.User Interaction: Users can interact with the website by saving favorite recipes, rating dishes they have tried, and leaving comments or reviews. These interactions help improve the personalized recommendation algorithm over time.
 
 ![image](https://github.com/ayurya123/Food-reciepe-webapp/assets/92880171/65174cbb-c95b-49af-a648-f3f3a1c6708d)
